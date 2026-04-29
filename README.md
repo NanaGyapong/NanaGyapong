@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Bismark Nana Gyapong Ababio 👋
 
-<!--
-**NanaGyapong/NanaGyapong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Senior Credit Risk Analyst | ML & Data Science Practitioner
+I bridge the gap between Tier-1 Banking expertise and Modern Data Engineering, specializing in automated risk frameworks and predictive modeling.
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏦 **Current Role:** Senior Credit & Portfolio Risk Analyst @ Zenith Bank (Ghana) Ltd.
+- 🎓 **Ongoing:** MSc Big Data Analytics | University of Ghana.
+- 🛠️ **Tech Stack:** Python (Scikit-Learn, Pandas), SQL, Apache Spark, R, Power BI.
+- 🎯 **Domain Expertise:** IFRS 9 / ECL Modelling, PD/LGD Estimation, Portfolio Monitoring.
+
+---
+
+### 📂 Key Projects
+* **[GSE Analytics Terminal](https://github.com/NanaGyapong)** - Real-time stock market visualization and terminal.
+* **[Risk Management Tools](https://github.com/NanaGyapong/risk-management-tools)** - Python-based suite for credit risk automation.
+
+---
+
+### 📫 Let's Connect
+* [LinkedIn](https://www.linkedin.com/in/bismark-nana-gyapong-ababio-bsc-msc-017761164/)
+* 📍 Based in Accra, Ghana
