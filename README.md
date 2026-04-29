@@ -13,7 +13,7 @@ I bridge the gap between Tier-1 Banking expertise and Modern Data Engineering, s
 ---
 
 ### 📂 Key Projects
-* **[GSE Analytics Terminal](https://github.com/NanaGyapong)** - Real-time stock market visualization and terminal.
+* **[GSE Analytics Terminal](https://github.com/NanaGyapong/gse-analytics-terminal) - Real-time stock market visualization and terminal.
 * **[Risk Management Tools](https://github.com/NanaGyapong/risk-management-tools)** - Python-based suite for credit risk automation.
 
 ---
