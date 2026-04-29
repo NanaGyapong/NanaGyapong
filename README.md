@@ -1,7 +1,7 @@
 # Hi, I'm Bismark Nana Gyapong Ababio 👋
 
 ### 🚀 Senior Credit Risk Analyst | ML & Data Science Practitioner
-I bridge the gap between Tier-1 Banking expertise and Modern Data Engineering, specializing in automated risk frameworks and predictive modeling.
+I design and deploy data-driven credit risk models (IFRS 9, PD/LGD/ECL) that improve portfolio performance, automate risk monitoring, and support strategic banking decisions.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 
