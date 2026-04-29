@@ -12,7 +12,6 @@ I design and deploy data-driven credit risk models (IFRS 9, PD/LGD/ECL) that imp
 
 ---
 
-### Current Focus
 ## 🚀 Current Focus
 - Advanced Machine Learning for Credit Risk
 - Explainable AI (SHAP, LIME) in Banking
