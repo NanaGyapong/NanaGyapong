@@ -12,6 +12,13 @@ I design and deploy data-driven credit risk models (IFRS 9, PD/LGD/ECL) that imp
 
 ---
 
+### Current Focus
+## 🚀 Current Focus
+- Advanced Machine Learning for Credit Risk
+- Explainable AI (SHAP, LIME) in Banking
+- Building End-to-End Risk Analytics Platforms
+
+- 
 ### 📂 Key Projects
 * **[GSE Analytics Terminal](https://github.com/NanaGyapong/gse-analytics-terminal) - Real-time stock market visualization and terminal.
 * **[Risk Management Tools](https://github.com/NanaGyapong/risk-management-tools)** - Python-based suite for credit risk automation.
@@ -20,4 +27,6 @@ I design and deploy data-driven credit risk models (IFRS 9, PD/LGD/ECL) that imp
 
 ### 📫 Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/bismark-nana-gyapong-ababio-bsc-msc-017761164/)
+* 📧 Email : nanababio18@gmail.com
+* 🌍 Open to collaborations in Risk Analytics & ML
 * 📍 Based in Accra, Ghana
