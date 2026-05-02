@@ -21,6 +21,7 @@ I design and deploy data-driven credit risk models (IFRS 9, PD/LGD/ECL) that imp
 ### 📂 Key Projects
 * **[GSE Analytics Terminal](https://github.com/NanaGyapong/gse-analytics-terminal) - Real-time stock market visualization and terminal.
 * **[Risk Management Tools](https://github.com/NanaGyapong/risk-management-tools)** - Python-based suite for credit risk automation.
+* - **[Telecom Churn Model](https://github.com/NanaGyapong/telecom-churn-model)** - End-to-end customer churn prediction pipeline using Scikit-learn (Random Forest, AUC 0.77).
 
 ---
 
